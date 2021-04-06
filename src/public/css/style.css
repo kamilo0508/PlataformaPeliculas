@@ -1,0 +1,22 @@
+
+table{
+    table-layout: fixed;
+  }
+  
+  #tabla td{
+    width: 130px;
+    overflow: auto;
+    border: 0px solid;
+    
+  }
+
+  #tabla td img{
+    width: 100px;
+    height: 140px;
+    overflow: auto;
+    border: 0px solid;
+  }
+
+  #tabla td a{
+    text-decoration:none;
+  }
